@@ -33,9 +33,9 @@ A user navigates to the supply requests SharePoint list and creates a new reques
 
 <div class="row">
  <div class="column">
-   <img src="/images/supply_submission_1.PNG" style='border:1px solid #555;float:left' alt="Request Screen" style="width:100%">
+   <img src="/images/supply_submission_1.PNG" style='border:1px solid #555;float:left;width:50%;padding:5px;' alt="Request Screen" style="width:100%">
  </div>
  <div class="column">
-   <img src="/images/supply_submission_2.PNG" style='border:1px solid #555;float:left' alt="Fulfillment Screen" style="width:100%">
+   <img src="/images/supply_submission_2.PNG" style='border:1px solid #555;float:left;width:50%;padding:5px' alt="Fulfillment Screen" style="width:100%">
  </div>
 </div> 
